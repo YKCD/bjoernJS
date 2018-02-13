@@ -1,0 +1,12 @@
+{
+  "name": "bjoern.js",
+  "version": "1.0.0",
+  "description": "ES Sandbox for Bjoern",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0"
+  },
+  "scripts": {
+  }
+}
